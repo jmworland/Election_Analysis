@@ -17,5 +17,5 @@ We believe that we have written code that is ready made to be used for any elect
 
 The second section that would be most likely need to be changed is what results you would like to have displayed. 
 
-[Example 2]
+[Example 2](Resources/Code_Example_2.png)
 provide a business proposal to the election commission on how this script can be used with some modifications for any election, Give at least two examples of how the code can be modified to be used for other elections. 
