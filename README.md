@@ -13,7 +13,7 @@ Candidate breakdown was similar with one candidate getting the overwhelming majo
 ## Election Audit Summary
 We believe that we have written code that is ready made to be used for any election with minimal changes. As long as the data is provided in a CSV file then this code will work for any set of data. Most of the changes needed from election to election would be needed in two sections. The first section is in the variables that you would like to track. This will allow you to deal with data that provides more variables. Our current data basically only provided name of candidate and county, so if there is data provided that has more variables you would need to add them here.    
 
-[Example 1]
+[Example 1](Resources/Code_Example_1.png)
 
 The second section that would be most likely need to be changed is what results you would like to have displayed. 
 
