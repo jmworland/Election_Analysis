@@ -15,7 +15,8 @@ We believe that we have written code that is ready made to be used for any elect
 
 [Example 1](Resources/Code_Example_1.png)
 
-The second section that would be most likely need to be changed is what results you would like to have displayed. 
+The second section that would be most likely need to be changed is what results you would like to have displayed. If you wanted to get more specific with your breakdown, you could edit it to show what votes candidates got from what counties. This could be useful to determine where a candidate's support base is for any type of future elections and where to build from. 
 
 [Example 2](Resources/Code_Example_2.png)
-provide a business proposal to the election commission on how this script can be used with some modifications for any election, Give at least two examples of how the code can be modified to be used for other elections. 
+
+Overall, we created a very versatile code that lends itself to be useful in many different scenarios. Please feel free to reach out for any future needs or changes to code. 
